@@ -13,3 +13,4 @@
     - name: This task runs even though previous task failed
       debug:
         msg: "Playbook continued despite previous failure"
+        msg: "Playbook continued despite previous failure"
